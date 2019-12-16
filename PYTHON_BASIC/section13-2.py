@@ -6,8 +6,7 @@ import time
 # 사운드 출력 필요 모듈
 import winsound
 
-# sqlite3 설치
-
+# sqlite3.dll
 import sqlite3
 import datetime
 
